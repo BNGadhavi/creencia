@@ -1,0 +1,36 @@
+label.error { float: right;color: red;font-weight: 700; }
+button.swal2-confirm.btn.btn-danger { margin-right: 20px; }
+.table th, .table td {
+    padding: 8px;
+    line-height: 20px;
+    text-align: left;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+}
+
+img.logo-icon { height: 100px !important; }
+
+.cursor { cursor: pointer; }
+
+.table thead tr th {
+    font-size: 14px;
+    font-weight: 600;
+}
+.hide-div{
+	display: none;
+}
+.font15 {
+	font-size: 15px;
+}
+.font20 {
+	font-size: 20px;
+}
+.paddingleft0 {
+    padding-left: 0px !important;
+}
+.textbold {
+    font-weight: bold !important;
+}
+.stock-dialog{
+    max-width: 1350px;
+}

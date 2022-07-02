@@ -1,0 +1,115 @@
+[11-Sep-2020 10:17:51 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 5
+[11-Sep-2020 10:17:51 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 5
+[11-Sep-2020 10:17:51 UTC] PHP Warning:  mcrypt_generic_init(): Iv size incorrect; supplied length: 1, needed: 16 in /home/nvzsjabiwhe7/public_html/mplwellness/PG/Authentication.php on line 28
+[11-Sep-2020 10:17:51 UTC] PHP Warning:  mdecrypt_generic() expects exactly 2 parameters, 3 given in /home/nvzsjabiwhe7/public_html/mplwellness/PG/Authentication.php on line 29
+[11-Sep-2020 10:17:51 UTC] PHP Notice:  Undefined index: userid in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 19
+[11-Sep-2020 10:17:51 UTC] PHP Notice:  Undefined variable: pgTxnId in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 100
+[11-Sep-2020 10:17:51 UTC] PHP Notice:  Undefined variable: transDate in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 100
+[11-Sep-2020 10:17:51 UTC] PHP Notice:  Undefined variable: conn in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:17:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:17:51 UTC] PHP Notice:  Undefined variable: transDate in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 100
+[11-Sep-2020 10:17:51 UTC] PHP Notice:  Undefined variable: conn in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:17:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:17:51 UTC] PHP Notice:  Undefined variable: transDate in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 100
+[11-Sep-2020 10:17:51 UTC] PHP Notice:  Undefined variable: conn in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:17:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:17:51 UTC] PHP Notice:  Undefined variable: transDate in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 100
+[11-Sep-2020 10:17:51 UTC] PHP Notice:  Undefined variable: conn in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:17:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:17:51 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 113
+[11-Sep-2020 10:17:51 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 113
+[11-Sep-2020 10:17:51 UTC] PHP Notice:  Undefined variable: payAmt in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 136
+[11-Sep-2020 10:17:51 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 154
+[11-Sep-2020 10:17:51 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 154
+[11-Sep-2020 10:19:56 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 5
+[11-Sep-2020 10:19:56 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 5
+[11-Sep-2020 10:19:56 UTC] PHP Warning:  mcrypt_generic_init(): Iv size incorrect; supplied length: 1, needed: 16 in /home/nvzsjabiwhe7/public_html/mplwellness/PG/Authentication.php on line 28
+[11-Sep-2020 10:19:56 UTC] PHP Warning:  mdecrypt_generic() expects exactly 2 parameters, 3 given in /home/nvzsjabiwhe7/public_html/mplwellness/PG/Authentication.php on line 29
+[11-Sep-2020 10:19:56 UTC] PHP Notice:  Undefined index: userid in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 19
+[11-Sep-2020 10:19:56 UTC] PHP Notice:  Undefined variable: pgTxnId in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 100
+[11-Sep-2020 10:19:56 UTC] PHP Notice:  Undefined variable: transDate in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 100
+[11-Sep-2020 10:19:56 UTC] PHP Notice:  Undefined variable: conn in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:19:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:19:56 UTC] PHP Notice:  Undefined variable: transDate in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 100
+[11-Sep-2020 10:19:56 UTC] PHP Notice:  Undefined variable: conn in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:19:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:19:56 UTC] PHP Notice:  Undefined variable: transDate in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 100
+[11-Sep-2020 10:19:56 UTC] PHP Notice:  Undefined variable: conn in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:19:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:19:56 UTC] PHP Notice:  Undefined variable: transDate in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 100
+[11-Sep-2020 10:19:56 UTC] PHP Notice:  Undefined variable: conn in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:19:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:19:56 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 113
+[11-Sep-2020 10:19:56 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 113
+[11-Sep-2020 10:19:56 UTC] PHP Notice:  Undefined variable: payAmt in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 136
+[11-Sep-2020 10:19:56 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 154
+[11-Sep-2020 10:19:56 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 154
+[11-Sep-2020 10:21:44 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 5
+[11-Sep-2020 10:21:44 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 5
+[11-Sep-2020 10:21:44 UTC] PHP Warning:  mcrypt_generic_init(): Iv size incorrect; supplied length: 1, needed: 16 in /home/nvzsjabiwhe7/public_html/mplwellness/PG/Authentication.php on line 28
+[11-Sep-2020 10:21:44 UTC] PHP Warning:  mdecrypt_generic() expects exactly 2 parameters, 3 given in /home/nvzsjabiwhe7/public_html/mplwellness/PG/Authentication.php on line 29
+[11-Sep-2020 10:21:44 UTC] PHP Notice:  Undefined index: userid in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 19
+[11-Sep-2020 10:21:44 UTC] PHP Notice:  Undefined variable: pgTxnId in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 100
+[11-Sep-2020 10:21:44 UTC] PHP Notice:  Undefined variable: transDate in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 100
+[11-Sep-2020 10:21:44 UTC] PHP Notice:  Undefined variable: conn in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:21:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:21:44 UTC] PHP Notice:  Undefined variable: transDate in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 100
+[11-Sep-2020 10:21:44 UTC] PHP Notice:  Undefined variable: conn in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:21:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:21:44 UTC] PHP Notice:  Undefined variable: transDate in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 100
+[11-Sep-2020 10:21:44 UTC] PHP Notice:  Undefined variable: conn in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:21:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:21:44 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 113
+[11-Sep-2020 10:21:44 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 113
+[11-Sep-2020 10:21:44 UTC] PHP Notice:  Undefined variable: payAmt in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 136
+[11-Sep-2020 10:21:44 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 154
+[11-Sep-2020 10:21:44 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 154
+[11-Sep-2020 10:22:23 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 5
+[11-Sep-2020 10:22:23 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 5
+[11-Sep-2020 10:22:23 UTC] PHP Warning:  mcrypt_generic_init(): Iv size incorrect; supplied length: 1, needed: 16 in /home/nvzsjabiwhe7/public_html/mplwellness/PG/Authentication.php on line 28
+[11-Sep-2020 10:22:23 UTC] PHP Warning:  mdecrypt_generic() expects exactly 2 parameters, 3 given in /home/nvzsjabiwhe7/public_html/mplwellness/PG/Authentication.php on line 29
+[11-Sep-2020 10:22:23 UTC] PHP Notice:  Undefined index: userid in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 19
+[11-Sep-2020 10:22:23 UTC] PHP Notice:  Undefined variable: pgTxnId in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 100
+[11-Sep-2020 10:22:23 UTC] PHP Notice:  Undefined variable: transDate in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 100
+[11-Sep-2020 10:22:23 UTC] PHP Notice:  Undefined variable: conn in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:22:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:22:23 UTC] PHP Notice:  Undefined variable: transDate in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 100
+[11-Sep-2020 10:22:23 UTC] PHP Notice:  Undefined variable: conn in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:22:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:22:23 UTC] PHP Notice:  Undefined variable: transDate in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 100
+[11-Sep-2020 10:22:23 UTC] PHP Notice:  Undefined variable: conn in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:22:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:22:23 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 113
+[11-Sep-2020 10:22:23 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 113
+[11-Sep-2020 10:22:23 UTC] PHP Notice:  Undefined variable: payAmt in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 136
+[11-Sep-2020 10:22:23 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 154
+[11-Sep-2020 10:22:23 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 154
+[11-Sep-2020 10:33:00 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 5
+[11-Sep-2020 10:33:00 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 5
+[11-Sep-2020 10:33:00 UTC] PHP Warning:  mcrypt_generic_init(): Iv size incorrect; supplied length: 1, needed: 16 in /home/nvzsjabiwhe7/public_html/mplwellness/PG/Authentication.php on line 28
+[11-Sep-2020 10:33:00 UTC] PHP Warning:  mdecrypt_generic() expects exactly 2 parameters, 3 given in /home/nvzsjabiwhe7/public_html/mplwellness/PG/Authentication.php on line 29
+[11-Sep-2020 10:33:00 UTC] PHP Notice:  Undefined index: userid in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 19
+[11-Sep-2020 10:33:00 UTC] PHP Notice:  Undefined variable: pgTxnId in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 100
+[11-Sep-2020 10:33:00 UTC] PHP Notice:  Undefined variable: transDate in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 100
+[11-Sep-2020 10:33:00 UTC] PHP Notice:  Undefined variable: conn in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:33:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:33:00 UTC] PHP Notice:  Undefined variable: transDate in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 100
+[11-Sep-2020 10:33:00 UTC] PHP Notice:  Undefined variable: conn in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:33:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 103
+[11-Sep-2020 10:33:00 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 113
+[11-Sep-2020 10:33:00 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 113
+[11-Sep-2020 10:33:00 UTC] PHP Notice:  Undefined variable: payAmt in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 136
+[11-Sep-2020 10:33:00 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 154
+[11-Sep-2020 10:33:00 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 154
+[11-Sep-2020 10:52:19 UTC] PHP Warning:  mcrypt_generic_init(): Iv size incorrect; supplied length: 1, needed: 16 in /home/nvzsjabiwhe7/public_html/mplwellness/PG/Authentication.php on line 22
+[11-Sep-2020 10:52:19 UTC] PHP Warning:  mdecrypt_generic() expects exactly 2 parameters, 3 given in /home/nvzsjabiwhe7/public_html/mplwellness/PG/Authentication.php on line 23
+[11-Sep-2020 10:52:19 UTC] PHP Notice:  Undefined index: userid in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 35
+[11-Sep-2020 10:52:19 UTC] PHP Notice:  Undefined variable: pgTxnId in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 197
+[11-Sep-2020 10:52:19 UTC] PHP Notice:  Undefined variable: transDate in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 197
+[11-Sep-2020 10:52:19 UTC] PHP Notice:  Undefined variable: conn in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 203
+[11-Sep-2020 10:52:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 203
+[11-Sep-2020 10:52:19 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 223
+[11-Sep-2020 10:52:19 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 223
+[11-Sep-2020 10:52:19 UTC] PHP Notice:  Undefined variable: payAmt in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 269
+[11-Sep-2020 10:52:19 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 305
+[11-Sep-2020 10:52:19 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/nvzsjabiwhe7/public_html/mplwellness/PG/pgresponse.php on line 305
